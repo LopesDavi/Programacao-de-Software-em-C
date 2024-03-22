@@ -2,10 +2,11 @@
 
 int main(){
 
-//Vetores -> Estrutura para armazenar código de maneira sequêncial e de //tamanho fixo
+//Vetores -> Estrutura para armazenar código de maneira sequêncial e de tamanho fixo
 
   //Todos elementos em um vetor devem ser do mesmo tipo.
-  //Em vez de declarar várias variáveis individuais, declara-se um vetor.
+  //Em vez de declarar várias variáveis individuais, 
+  //declara-se um vetor.
   //Os elementos de um vetor são acessados pelo indice.
 
   //Exemplo:
